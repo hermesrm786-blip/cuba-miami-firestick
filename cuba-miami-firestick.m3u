@@ -1,0 +1,52 @@
+
+
+#EXTM3U
+
+# ===== CUBA TV =====
+# Cubavisión Internacional
+#EXTINF:-1 group-title="Cuba",Cubavisión Internacional
+https://iptv-org.github.io/iptv/channels/cu/CubavisionInternacional.m3u8
+
+# Canal Caribe
+#EXTINF:-1 group-title="Cuba",Canal Caribe
+https://iptv-org.github.io/iptv/channels/cu/CanalCaribe.m3u8
+
+# Multivisión
+#EXTINF:-1 group-title="Cuba",Multivisión
+https://iptv-org.github.io/iptv/channels/cu/Multivision.m3u8
+
+# Tele Rebelde
+#EXTINF:-1 group-title="Cuba",Tele Rebelde
+https://iptv-org.github.io/iptv/channels/cu/TeleRebelde.m3u8
+
+
+# ===== CUBA RADIO =====
+# Radio Rebelde
+#EXTINF:-1 group-title="Cuba Radio",Radio Rebelde
+https://icecast.radiohc.cu/rebelde
+
+# Radio Progreso
+#EXTINF:-1 group-title="Cuba Radio",Radio Progreso
+https://icecast.radiohc.cu/progreso
+
+# Radio Enciclopedia
+#EXTINF:-1 group-title="Cuba Radio",Radio Enciclopedia
+https://icecast.teveo.cu/9Rnrbjzq
+
+# Radio Taíno
+#EXTINF:-1 group-title="Cuba Radio",Radio Taíno
+https://icecast.radiohc.cu/taino
+
+
+# ===== MIAMI CUBAN RADIO / TV =====
+# Ritmo 95.7 FM
+#EXTINF:-1 group-title="Miami Cuban",Ritmo 95.7 FM
+https://liveaudio.lamusica.com/MIA_WRMA/playlist.m3u8
+
+# Radio Mambí 1140 AM
+#EXTINF:-1 group-title="Miami Cuban",Radio Mambí 1140
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQBAAMAAC.aac
+
+# La Poderosa 670 AM
+#EXTINF:-1 group-title="Miami Cuban",La Poderosa 670
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAQIAMAAC.aac
